@@ -1,0 +1,52 @@
+body{
+	background-color: powderblue;
+	 font-family: verdana;
+}
+.a{
+	color: orange;
+}
+.s{
+    background-color: yellow;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+   font-family:Courier New;
+}
+.d{
+	background-color: yellow;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+}
+.f{
+	background-color: yellow;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+}
+.g{
+	background-color: yellow;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+}
+.h{
+	background-color: yellow;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+}
+.j{
+background-color: tomato;
+    color: black;
+    padding: 10px;	
+    font-style: italic;
+    font-size:100%;
+}
+.k{
+	background-color: tomato;
+    color: black;
+    padding: 10px;
+    font-style: italic;
+    font-size:120%;
+	}
